@@ -39,13 +39,13 @@ p {
 	width:33.33%;
 }
 
-.ghost-button {
-  color: 255, 255, 255;
-  border: .5em solid #000;
-  display: block;
-  padding: 2em;
-  text-align: center;
-  text-decoration: none;
+.ghostbutton {
+	color: #fff;
+  	border: .5em solid #000;
+  	display: block;
+  	padding: 2em;
+  	text-align: center;
+  	text-decoration: none;
   }
 
 div {
@@ -58,4 +58,9 @@ li {
 	margin:1em 0 0 1.2em;
 }
 
+.footer {
+	text-align: center;
+	color:rgb(0,194,204);
+	font-size: .5em;
+}
 
