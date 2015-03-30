@@ -23,17 +23,19 @@ p {
 	color: rgb(255,255,55);
 	font-weight: bold;
 	font-size: 1.5em;
-	margin: 2em;
+	margin:1em 0 0 19em;
+	padding:2em;
 	text-transform: uppercase;
+	width:33.33%;
 }
 
 .cta{
-	text-align: center;
 	color: rgb(255,255,255);
 	font-size:1em;
 	font-weight: bold;
 	margin:1em 0 0 19em;
 	padding:2em;
+	text-align: center;
 	width:33.33%;
 
 }
