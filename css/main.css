@@ -41,7 +41,7 @@ p {
 }
 
 .ghost-button {
-  display: inline-block;
+  display: block;
   width: 4em;
   padding: 1.5em;
   color: #fff;
