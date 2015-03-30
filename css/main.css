@@ -37,15 +37,13 @@ p {
 	padding:2em;
 	text-align: center;
 	width:33.33%;
-
 }
 
 .ghost-button {
-  display: inline-block;
-  width: 4em;
-  padding: 1.5em;
-  color: #fff;
-  border: .5px solid #fff;
+  color: 255, 255, 255;
+  border: .5em solid #000;
+  display: block;
+  padding: 2em;
   text-align: center;
   text-decoration: none;
   }
