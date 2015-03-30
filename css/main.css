@@ -35,9 +35,15 @@ p {
 
 }
 
-#contactbutton{
-	margin: 1em 0 0 19em;
-	padding: 3em;
+.ghost-button {
+  display: inline-block;
+  width: 2em;
+  padding: 1em;
+  color: #fff;
+  border: .5px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
 }
 
 div {
