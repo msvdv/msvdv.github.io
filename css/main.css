@@ -22,13 +22,12 @@ p {
 }
 
 .intro{
-	color: rgb(255,255,55);
+	color: rgb(0,0,0);
 	font-weight: bold;
 	font-size: 1.5em;
 	margin:1em 0 0 19em;
 	padding:2em;
 	text-transform: uppercase;
-	width:33.33%;
 }
 
 .cta{
@@ -51,7 +50,8 @@ p {
   
  .menu1 {
  	float: right;
- 	margin: 4em;
+ 	margin: 1em;
+ 	padding: 1em;
  }
 
 div {
