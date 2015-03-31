@@ -49,7 +49,7 @@ p {
   }
   
  .menu1 {
- 	border: .25em solid #fff
+ 	border: .25em solid #fff;
  	float: right;
  	font-color: #fff;
  	margin: 1em;
