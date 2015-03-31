@@ -49,9 +49,9 @@ p {
   }
   
  .menu1 {
- 	color: white;
  	border: .25em solid #fff
  	float: right;
+ 	font-color: #fff;
  	margin: 1em;
  	padding: 1em;
  	text-decoration: none;
